@@ -1,0 +1,75 @@
+* {
+    margin: auto;
+    padding: auto;
+}
+img {
+    width: 40%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30%;
+}
+nav {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(228, 228, 228);
+    height: 100px;
+}
+body {
+    background-color: white;
+}
+form {
+    width: auto;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+}
+button {
+    height: auto;
+    width: auto;
+}
+ul {
+
+}
+ul li {
+    list_style: none;
+    display: inline-block;
+    float: left;
+    line-height: 100px;
+    text-decoration: none;
+    padding: 0 20px;
+}
+li a {
+    display: block;
+
+}
+button:hover {
+    background-color: #555;
+    color: white;}
+
+/* not sure how many of all of these above i actually need...*/
+
+.header-style {
+
+}
+.header-position {
+
+}
+
+.search-box {
+
+}
+
+#container {
+    min-height: 100%;
+}
+
+#main {
+    overflow: auto;
+}
+#footer {
+
+}
